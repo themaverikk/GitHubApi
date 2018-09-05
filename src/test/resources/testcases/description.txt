@@ -1,0 +1,5 @@
+http00.json: Get all events
+http01.json: Get events by actor id
+http02.json: Update actor avatar url
+http03.json: Get actors by total number of events
+http04.json: Get actors by streak
